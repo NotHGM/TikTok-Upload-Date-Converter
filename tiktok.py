@@ -8,7 +8,7 @@ def binary_to_decimal(binary):
 
 def convert_to_unix_timestamp(decimal):
     timestamp = time.gmtime(decimal)
-    formatted_time = time.strftime('%d-%m-%Y %I:%M:%S %p', timestamp)
+    formatted_time = time.strftime('%d-%m-%Y %I:%M:%S %p UTC', timestamp)
     return formatted_time
 
 def main():
