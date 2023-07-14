@@ -13,7 +13,7 @@ Convert TikTok video upload timestamps to a Unix time format.
 # Prerequisites
 Python 3.x
 
-TikTok video string (e.g., "1626273600")
+TikTok video string (e.g., "7253970360440229146")
 
 [See Example of TikTok Video String](https://imgur.com/a/yK6S3g6)
 
